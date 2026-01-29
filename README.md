@@ -48,6 +48,12 @@ This feature enhances inclusivity and ensures that information reaches a wider a
 Screenshots
 ## Screenshots
 ![login page](https://github.com/user-attachments/assets/f27149be-88c4-497a-b303-eaa7b372b6d4)
+![home page](https://github.com/user-attachments/assets/54252c6c-d7e7-4084-930a-cdd5c2525199)
+![application page](https://github.com/user-attachments/assets/2a03022a-3389-4777-b819-33c73b763fad)
+![chatbot page](https://github.com/user-attachments/assets/96864e02-8bdf-47bc-9b41-a48b94ac591c)
+
+
+
 
 
 
@@ -62,25 +68,24 @@ AICW-Final-Project/
 
 📄 File Descriptions
 
-app.py
+# app.py
 Implements user input handling, eligibility logic, chatbot interaction, and voice output.
 
-requirements.txt
+# requirements.txt
 Lists all dependencies required to execute the project.
 
-README.md
+# README.md
 Provides complete documentation including problem statement, solution, and usage instructions.
 
-.gitignore
+# .gitignore
 Ensures unnecessary files are not tracked in the GitHub repository.
 
-assets/
+# assets/
 Contains screenshots and images related to the project.
 
-data/
-Stores scheme information and eligibility criteria.
 
-▶️ Steps to Run the Project
+
+# ▶️ Steps to Run the Project
 
 -> Clone the GitHub repository:
 git clone https://github.com/PravallikaSomisetti/AICW-Final-Project.git
