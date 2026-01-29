@@ -68,24 +68,24 @@ AICW-Final-Project/
 
 📄 File Descriptions
 
-# app.py
+## app.py
 Implements user input handling, eligibility logic, chatbot interaction, and voice output.
 
-# requirements.txt
+## requirements.txt
 Lists all dependencies required to execute the project.
 
-# README.md
+## README.md
 Provides complete documentation including problem statement, solution, and usage instructions.
 
-# .gitignore
+## .gitignore
 Ensures unnecessary files are not tracked in the GitHub repository.
 
-# assets/
+## assets/
 Contains screenshots and images related to the project.
 
 
 
-# ▶️ Steps to Run the Project
+## ▶️ Steps to Run the Project
 
 -> Clone the GitHub repository:
 git clone https://github.com/PravallikaSomisetti/AICW-Final-Project.git
